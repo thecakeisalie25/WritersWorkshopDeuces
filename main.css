@@ -1,0 +1,10 @@
+/* h1{
+	text-align: center;
+} */
+*{
+	text-align: center;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif	
+}
+li{
+	text-align: left;
+}
