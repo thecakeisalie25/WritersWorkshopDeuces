@@ -6,7 +6,10 @@ html {
 	margin-right: 15%;
 	margin-left: 15%;
 }
-
+hr{
+	stroke-width: 4px;
+	color: #bcceff;
+}
 input {
 	text-align: center;
 	color: #0a0e14;
